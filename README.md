@@ -30,8 +30,8 @@
 ## ⚙️ Sobre Mim
 
 - 🛸 Explorando tecnologias de ponta e criando interfaces modernas.
-- 💡 Buscando sempre simplicidade e eficiência no desenvolvimento.
-- 🖤 Minimalista com uma pegada tecnológica futurista.
+- 💡 Ou você domina a IA ou você vai ser dominado.
+- 🖤 Minimalista.
 
 ## 🌐 Redes Sociais
 
