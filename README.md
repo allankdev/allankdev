@@ -30,7 +30,7 @@
 ## ⚙️ Sobre Mim
 
 - 🛸 Explorando tecnologias de ponta e criando interfaces modernas.
-- 💡 Ou você domina a IA ou você vai ser dominado.
+- 💡 Ou você domina a IA ou ela vai te dominar.
 - 🖤 Minimalista.
 
 ## 🌐 Redes Sociais
