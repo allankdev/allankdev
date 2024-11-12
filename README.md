@@ -1,7 +1,7 @@
 <h1 align="center">👾 Allan Kelven - Full Stack Developer 🛠️</h1>
 
 <p align="center">
-  Explorando o futuro do desenvolvimento, com uma abordagem elegante e tecnológica.
+  Explorando o futuro do desenvolvimento, com uma abordagem simples e minimalista.
 </p>
 
 <div align="center">
