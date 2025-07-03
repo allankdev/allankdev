@@ -29,9 +29,9 @@
 
 ## ⚙️ Sobre Mim
 
-- 🛸 Explorando tecnologias de ponta e criando interfaces modernas.
-- 💡 Ou você domina a IA ou voce vai ser dominado.
-- 🖤 Minimalista.
+🛸 Tech de ponta + UI moderna. 
+💡 Domine a IA ou será dominado. 
+🖤 Minimalismo é essência.
 
 ## 🌐 Redes Sociais
 
