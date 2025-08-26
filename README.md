@@ -23,8 +23,8 @@ Atualmente na **Leilões PB**, focado em automação com **Power Automate** e **
 **Especialidades:** Clean Code • Microservices • AI Integration • Process Automation
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
@@ -57,7 +57,7 @@ Atualmente na **Leilões PB**, focado em automação com **Power Automate** e **
 ### 🤖 **Bot SMS** - Automação Telegram
 **Stack:** PHP • Telegram API  
 **Impacto:** 60% redução comunicação manual  
-[![Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/allankdev/botsms)
+[![Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logoColor=white)](https://github.com/allankdev/botsms)
 
 ---
 
@@ -90,7 +90,7 @@ Automação com Power Automate e WhatsApp API • 20% economia operacional
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allankdev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=allankdev&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
