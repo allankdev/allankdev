@@ -23,8 +23,9 @@ Atualmente na **Leilões PB**, focado em automação com **Power Automate** e **
 **Especialidades:** Clean Code • Microservices • AI Integration • Process Automation
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <!-- Using more reliable GitHub stats URLs without problematic parameters -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -52,7 +53,7 @@ Atualmente na **Leilões PB**, focado em automação com **Power Automate** e **
 ### 👥 **HR Contábil** - Gestão de RH
 **Stack:** Java • Spring Boot • MySQL  
 **Features:** Folha de pagamento, relatórios automatizados  
-[![Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/allankdev/hr-contabil)
+[![Repo](https://img.shields.io/badge/GitHub-black?style=flat-square&logoColor=white)](https://github.com/allankdev/hr-contabil)
 
 ### 🤖 **Bot SMS** - Automação Telegram
 **Stack:** PHP • Telegram API  
@@ -90,7 +91,8 @@ Automação com Power Automate e WhatsApp API • 20% economia operacional
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=allankdev&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <!-- Using GitHub streak stats with simpler parameters -->
+  <img src="https://streak-stats.demolab.com/?user=allankdev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
