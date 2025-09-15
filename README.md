@@ -19,24 +19,11 @@
 
 ## 🌟 Sobre Mim
 
-```typescript
-const allan: Developer = {
-  name: "Allan Kelven",
-  role: "Full Stack Developer",
-  experience: "8+ anos",
-  companies: ["Pedgo.com.br (Founder)", "Pethost (Co-Founder)", "Meu Site BR (Founder)"],
-  philosophy: "Arquitetura moderna, experiência excepcional",
-  lifestyle: "Minimalista por essência",
-  passion: "Revolucionar a logística e delivery",
-  currentFocus: "Building next-gen delivery platform with NestJS + Next.js"
-};
-```
-
 - 🔭 **Atualmente:** Desenvolvendo a **Pedgo.com.br** - A próxima geração de delivery
 - 🌱 **Aprendendo:** IA aplicada a logística e automação avançada  
 - 💬 **Especialista em:** NestJS, Next.js, TypeScript, PostgreSQL, Automação
 - ⚡ **Filosofia:** *Código limpo, arquitetura moderna, experiência excepcional*
-- 🎯 **Meta 2025:** Expandir Pedgo para todo o Nordeste
+- 🎯 **Meta 2026:** Expandir Pedgo para todo o Nordeste
 
 ---
 
