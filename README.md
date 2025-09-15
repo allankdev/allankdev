@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 ### 💻 **Frontend Universe**
 <div align="center">
