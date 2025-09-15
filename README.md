@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tech Stacks
 
 ### 💻 **Frontend Universe**
 <div align="center">
