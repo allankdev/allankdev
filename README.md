@@ -24,19 +24,19 @@ const allan: Developer = {
   name: "Allan Kelven",
   role: "Full Stack Developer",
   experience: "8+ anos",
-  companies: ["Pethost (Founder)", "Meu Site BR (Founder)"],
-  philosophy: "Ou você domina a IA, ou será dominado por ela",
+  companies: ["Pedego.com.br (Founder)", "Pethost (Co-Founder)", "Meu Site BR (Founder)"],
+  philosophy: "Arquitetura moderna, experiência excepcional",
   lifestyle: "Minimalista por essência",
-  passion: "Criar soluções que impactam vidas",
-  currentFocus: "Building the next generation of web applications"
+  passion: "Revolucionar a logística e delivery",
+  currentFocus: "Building next-gen delivery platform with NestJS + Next.js"
 };
 ```
 
-- 🔭 **Atualmente:** Revolucionando o mercado pet com a **Pethost**
-- 🌱 **Aprendendo:** IA aplicada a negócios e automação avançada  
-- 💬 **Especialista em:** Java, React, Node.js, Python, Automação
-- ⚡ **Filosofia:** *Código limpo, soluções escaláveis, resultados mensuráveis*
-- 🎯 **Meta 2025:** Expandir a Pethost para todo o Brasil
+- 🔭 **Atualmente:** Desenvolvendo a **Pedego.com.br** - A próxima geração de delivery
+- 🌱 **Aprendendo:** IA aplicada a logística e automação avançada  
+- 💬 **Especialista em:** NestJS, Next.js, TypeScript, PostgreSQL, Automação
+- ⚡ **Filosofia:** *Código limpo, arquitetura moderna, experiência excepcional*
+- 🎯 **Meta 2025:** Expandir Pedego para todo o Nordeste
 
 ---
 
@@ -54,27 +54,30 @@ const allan: Developer = {
 
 ### 🔧 **Backend Powerhouse**
 <div align="center">
+  <img src="https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
+  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=007acc" />
   <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java&logoColor=ed8b00" />
   <img src="https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=spring-boot&logoColor=6db33f" />
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=777bb4" />
 </div>
 
 ### 🗄️ **Database Mastery**
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=4ea94b" />
   <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=4ea94b" />
   <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00f" />
   <img src="https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=dc382d" />
 </div>
 
-### 🚀 **DevOps & Tools**
+### 🚀 **DevOps & Cloud**
 <div align="center">
+  <img src="https://img.shields.io/badge/AWS%20S3-0d0d0d?style=for-the-badge&logo=amazons3&logoColor=ff9900" />
   <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/Stripe-0d0d0d?style=for-the-badge&logo=stripe&logoColor=008cdd" />
+  <img src="https://img.shields.io/badge/WhatsApp%20API-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=25d366" />
   <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/WordPress-0d0d0d?style=for-the-badge&logo=wordpress&logoColor=21759b" />
-  <img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=f24e1e" />
+  <img src="https://img.shields.io/badge/Puppeteer-0d0d0d?style=for-the-badge&logo=puppeteer&logoColor=40b5a8" />
 </div>
 
 ---
@@ -83,12 +86,12 @@ const allan: Developer = {
 
 <div align="center">
 
-| 🤖 **Automação** | 🛍️ **E-commerce** | 🐾 **Pet Services** | 🏗️ **Arquitetura** |
+| 🚚 **Delivery Tech** | 🎨 **Modern UI** | 🐾 **Pet Services** | 🏗️ **Arquitetura** |
 |:---:|:---:|:---:|:---:|
-| WhatsApp API | WordPress | Plataformas Pet | Microserviços |
-| Power Automate | WooCommerce | Hospedagem | Clean Architecture |
-| Bot Development | Payment Gateways | Gestão | API Design |
-| Process Optimization | Inventory Systems | Automação | Scalable Solutions |
+| NestJS API | Radix UI | Plataformas Pet | Clean Architecture |
+| WhatsApp Integration | Chakra UI | Hospedagem | Microserviços |
+| Geolocalização | Framer Motion | Gestão | TypeScript |
+| Payment Gateways | shadcn/ui | Automação | Scalable Solutions |
 
 </div>
 
@@ -97,22 +100,18 @@ const allan: Developer = {
 ## 🚀 Projetos em Destaque
 
 ### 🐾 **[Pethost](https://github.com/co-finampy/pethost-web.git)** - *Revolução Pet*
-> Plataforma completa de hospedagem para pets com tecnologia de ponta
+> Plataforma completa de hospedagem para pets com arquitetura moderna
 
+**🔥 Stack Avançado:** NestJS + Next.js + TypeScript + Radix UI + Chakra UI + PostgreSQL
 **🎯 Impacto:** 500+ usuários ativos | **⚡ Performance:** 40% melhoria | **🔒 Segurança:** 99.9% uptime
+**💫 Features:** Drag & Drop, Geolocalização, Pagamentos, Sistema de Reviews
 
-```bash
-# Stack Principal
-Frontend: Next.js + React + TypeScript
-Backend: Spring Boot + Java
-Database: MongoDB
-Auth: JWT + OAuth
-```
+### 🚚 **[Pedego.com.br](https://pedego.com.br)** - *Revolução em Entregas*
+> Plataforma completa de delivery com tecnologia de ponta - **Meu projeto principal**
 
-### 📦 **[Pedego API](https://github.com/allankdev/pedego-api.git)** - *Sistema de Entregas*
-> API escalável processando milhares de pedidos diariamente
-
+**🔥 Stack Avançado:** NestJS + Next.js + TypeScript + PostgreSQL + AWS S3 + Stripe + WhatsApp API
 **📊 Métricas:** 1000+ pedidos/dia | **🚀 Performance:** 99.5% confiabilidade | **⚡ Speed:** 40% redução latência
+**💡 Inovações:** Automação WhatsApp, Pagamentos Stripe, Geolocalização, PDFs dinâmicos
 
 ### 👨‍💼 **[HR Contábil](https://github.com/allankdev/hr-contabil.git)** - *Gestão Inteligente*
 > Sistema completo de RH para empresas contábeis
@@ -165,33 +164,35 @@ timeline
     2019 : Especialização WordPress
          : Foco em e-commerce
     2021 : Migração para Full Stack
-         : Java + React mastery
-    2024 : Fundação Pethost
+         : NestJS + React mastery
+    2024 : Co-fundação Pethost
          : Revolução no mercado pet
+    2024 : Lançamento Pedego.com.br
+         : Plataforma de delivery de nova geração
     2025 : Expansão nacional
          : IA + Automação avançada
 ```
 
 ---
 
-## 🌟 Filosofia de Código
+## 💫 Filosofia de Desenvolvimento
 
-> ### *"Código não é apenas instrução para máquinas, é arte para humanos interpretarem"*
+> ### *"Arquitetura moderna não é sobre tecnologia, é sobre criar experiências extraordinárias"*
 
-```javascript
+```typescript
 class DeveloperPhilosophy {
   constructor() {
     this.principles = [
-      "Clean Code sempre",
-      "Testes são obrigatórios", 
+      "TypeScript em tudo",
+      "NestJS para APIs robustas", 
+      "Next.js para UIs incríveis",
       "Performance é prioridade",
-      "User Experience acima de tudo",
-      "Aprender nunca é demais"
+      "User Experience acima de tudo"
     ];
   }
   
-  codeWithPassion() {
-    return "Every line of code is a step towards innovation";
+  buildWithPassion() {
+    return "Every line of code is crafted with purpose and precision";
   }
 }
 ```
@@ -316,14 +317,6 @@ class DeveloperPhilosophy {
 </div>
 
 ---
-
-## 💡 Quote que me Move
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ou%20você%20domina%20a%20IA%2C%20ou%20será%20dominado%20por%20ela&author=Allan%20Kelven)
-  
-</div>
 
 ---
 
