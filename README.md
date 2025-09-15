@@ -22,7 +22,7 @@
 - 🔭 **Atualmente:** Desenvolvendo a **Pedgo.com.br** - A próxima geração de delivery
 - 🌱 **Aprendendo:** IA aplicada a logística e automação avançada  
 - 💬 **Especialista em:** NestJS, Next.js, TypeScript, PostgreSQL, Automação
-- ⚡ **Filosofia:** *Código limpo, arquitetura moderna, experiência excepcional*
+- ⚡ **Filosofia:** *Código limpo, arquitetura moderna.*
 - 🎯 **Meta 2026:** Expandir Pedgo para todo o Nordeste
 
 ---
