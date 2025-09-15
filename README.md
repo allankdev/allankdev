@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e0ff&size=35&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;8%2B+Years+Creating+Digital+Solutions;Full+Stack+Developer;Founder+of+Pethost+%26+Meu+Site+BR;Building+the+Future+with+Code!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00e0ff&size=35&center=true&vCenter=true&width=600&lines=Welcome+to+my++Universe)
   
 </div>
 
@@ -24,7 +24,7 @@ const allan: Developer = {
   name: "Allan Kelven",
   role: "Full Stack Developer",
   experience: "8+ anos",
-  companies: ["Pedego.com.br (Founder)", "Pethost (Co-Founder)", "Meu Site BR (Founder)"],
+  companies: ["Pedgo.com.br (Founder)", "Pethost (Co-Founder)", "Meu Site BR (Founder)"],
   philosophy: "Arquitetura moderna, experiência excepcional",
   lifestyle: "Minimalista por essência",
   passion: "Revolucionar a logística e delivery",
@@ -32,11 +32,11 @@ const allan: Developer = {
 };
 ```
 
-- 🔭 **Atualmente:** Desenvolvendo a **Pedego.com.br** - A próxima geração de delivery
+- 🔭 **Atualmente:** Desenvolvendo a **Pedgo.com.br** - A próxima geração de delivery
 - 🌱 **Aprendendo:** IA aplicada a logística e automação avançada  
 - 💬 **Especialista em:** NestJS, Next.js, TypeScript, PostgreSQL, Automação
 - ⚡ **Filosofia:** *Código limpo, arquitetura moderna, experiência excepcional*
-- 🎯 **Meta 2025:** Expandir Pedego para todo o Nordeste
+- 🎯 **Meta 2025:** Expandir Pedgo para todo o Nordeste
 
 ---
 
@@ -106,7 +106,7 @@ const allan: Developer = {
 **🎯 Impacto:** 500+ usuários ativos | **⚡ Performance:** 40% melhoria | **🔒 Segurança:** 99.9% uptime
 **💫 Features:** Drag & Drop, Geolocalização, Pagamentos, Sistema de Reviews
 
-### 🚚 **[Pedego.com.br](https://pedego.com.br)** - *Revolução em Entregas*
+### 🚚 **[Pedgo.com.br](https://pedgo.com.br)** - *Revolução em Entregas*
 > Plataforma completa de delivery com tecnologia de ponta - **Meu projeto principal**
 
 **🔥 Stack Avançado:** NestJS + Next.js + TypeScript + PostgreSQL + AWS S3 + Stripe + WhatsApp API
@@ -167,7 +167,7 @@ timeline
          : NestJS + React mastery
     2024 : Co-fundação Pethost
          : Revolução no mercado pet
-    2024 : Lançamento Pedego.com.br
+    2024 : Lançamento Pedgo.com.br
          : Plataforma de delivery de nova geração
     2025 : Expansão nacional
          : IA + Automação avançada
