@@ -2,9 +2,9 @@
 
 # Allan Kelven
 
-**Full Stack Developer** • **8+ Years Experience**
+**Full Stack Developer** • **8+ Years Experience**  
 
-*Transformando ideias em soluções digitais inovadoras*
+🚀 Criando soluções digitais escaláveis e inovadoras
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://allan-kelven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/allankelven)
@@ -14,26 +14,38 @@
 
 ---
 
-## 🚀 Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,java,spring,nodejs,python,mysql,postgresql,mongodb,docker,git&theme=dark" />
-</div>
+## 🧑‍💻 About Me
+Full Stack Developer com **8+ anos** de experiência em **PHP (Laravel)**, **Java (Spring Boot)**, **Node/NestJS** e **React/Next.js**.  
+Apaixonado por **arquitetura limpa, automação de processos, microserviços e integrações inteligentes**.  
+
+---
+
+## 🛠️ Tech Highlights
+- **Backend:** Laravel 12, JWT, Swagger, Spring Boot, NestJS, Python Bots  
+- **Frontend:** React, Next.js, TypeScript, Tailwind, Radix UI, Chakra  
+- **DB:** MySQL, PostgreSQL, MongoDB, SQLite  
+- **Infra & DevOps:** Docker, CI/CD, Redis, AWS S3, Stripe, Twilio  
+- **Automação:** WhatsApp API, Telegram Bots, Power Automate  
 
 ---
 
 ## 🌟 Featured Projects
 
-**🐾 Pethost** – Plataforma de hospedagem pet  
-`Next.js` `Spring Boot` `MongoDB` • 500+ usuários ativos  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/co-finampy/pethost-web)
+**🐾 Pethost** – Plataforma pet  
+`Next.js` `Spring Boot` `MongoDB` • +500 usuários  
+[Repo](https://github.com/co-finampy/pethost-web)
 
-**🚚 Pedego** – Sistema de delivery  
-`Java` `Spring Boot` `MySQL` • 1000+ requisições diárias  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/allankdev/pedego-api)
+**🚚 Pedego API** – Delivery system  
+`NestJS` `MySQL` `Stripe` • +1000 requisições/dia  
+[Repo](https://github.com/allankdev/pedego-api)
 
 **👥 HR Contábil** – Gestão de RH  
-`Java` `Spring Boot` `MySQL` • Automação de folha de pagamento  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/allankdev/hr-contabil)
+`Laravel` `MySQL` • Automação folha de pagamento  
+[Repo](https://github.com/allankdev/hr-contabil)
+
+**🤖 Bot SMS** – Automação no Telegram  
+`PHP` `Telegram API` • -60% carga manual  
+[Repo](https://github.com/allankdev/botsms)
 
 ---
 
@@ -42,6 +54,23 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
+
+---
+
+## 🎮 Easter Egg – Snake Game 🐍
+
+<div align="center">
+
+![Snake animation](https://github.com/allankdev/allankdev/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+- Sistemas para Internet – Estácio (2025)  
+- Spring Boot Expert • MongoDB & NoSQL • Clean Code  
+- Scrum Foundation • Pré-MBA em IA para Negócios  
 
 ---
 
