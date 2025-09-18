@@ -1,83 +1,41 @@
-# 🚀 Allan Kelven - Full Stack Developer 🛠️
+# Allan Kelven
+**Full Stack Developer** • João Pessoa, PB
 
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Allan%20Kelven&fontColor=00e0ff&fontSize=40&animation=fadeIn" />`{=html}
-:::
+Desenvolvedor apaixonado por criar soluções escaláveis que impactam negócios reais. Especializado em **NestJS**, **Next.js** e **TypeScript**, com foco em arquiteturas modernas e automação inteligente.
 
-## 🌟 Sobre Mim
+## 🛠 Stack & Tecnologias
+**Frontend:** TypeScript, Next.js, React, Radix UI, Chakra UI, Framer Motion  
+**Backend:** NestJS, Node.js, Java, Spring Boot, Python  
+**Database:** PostgreSQL, MongoDB, MySQL, Redis  
+**DevOps:** AWS S3, Docker, Stripe, WhatsApp API, Puppeteer  
 
--   🔭 Atualmente: Desenvolvendo a **Pedgo.com.br** -- A próxima geração
-    de delivery\
--   💬 Especialista em: **NestJS, Next.js, TypeScript, PostgreSQL,
-    Automação**\
--  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-------------------------------------------------------------------------
+## 🚀 Projetos
 
-## 🛠️ Tech Stack
+**[Pedgo.com.br](https://pedgo.com.br)** - Plataforma completa de delivery  
+*NestJS, Next.js, PostgreSQL, Stripe, WhatsApp API*  
+Sistema de entregas com automação WhatsApp, pagamentos integrados e geolocalização.
 
-::: {align="center"}
-**Frontend**\
-`<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61dafb" />`{=html}
-`<img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />`{=html}
-`<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=007acc" />`{=html}
+**[Pethost](https://github.com/co-finampy/pethost-web)** - Plataforma de hospedagem para pets  
+*NestJS, Next.js, TypeScript, Radix UI, Chakra UI*  
+Sistema completo com drag & drop, sistema de reviews e gestão de reservas.
 
-**Backend**\
-`<img src="https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=e0234e" />`{=html}
-`<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ff00" />`{=html}
-`<img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java&logoColor=ed8b00" />`{=html}
+**[Bot SMS Telegram](https://github.com/allankdev/botsms)** - Bot inteligente com integração SMS  
+*Automação de comunicação com múltiplos provedores*  
+Automação que reduziu 60% da comunicação manual com integração de múltiplas APIs.
 
-**Database & Cloud**\
-`<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=316192" />`{=html}
-`<img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />`{=html}
-`<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ed" />`{=html}
-:::
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankdev&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
 
-------------------------------------------------------------------------
-
-## 🚀 Projetos em Destaque
-
-### 🚚 [Pedgo.com.br](https://pedgo.com.br) -- *Revolução em Entregas*
-
-Plataforma de delivery inteligente, com automação via WhatsApp e
-pagamentos Stripe.\
-**Stack:** NestJS + Next.js + PostgreSQL + AWS + WhatsApp API
-
-### 🐾 [Pethost](https://github.com/co-finampy/pethost-web.git) -- *Revolução Pet*
-
-Hospedagem de pets com reviews, pagamentos e geolocalização.\
-**Stack:** NestJS + Next.js + TypeScript + PostgreSQL
-
-### 🤖 [Bot SMS Telegram](https://github.com/allankdev/botsms.git) -- *Automação 4.0*
-
-Bot inteligente com integração SMS e múltiplos provedores.
-
-------------------------------------------------------------------------
-
-## 📊 Estatísticas GitHub
-
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allankdev&show_icons=true&theme=github_dark&hide_border=true&title_color=00e0ff&icon_color=00e0ff&text_color=c3c3c3&bg_color=0d0d0d"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-## 🌐 Conecte-se Comigo
-
-::: {align="center"}
-`<a href="https://linkedin.com/in/allankelven" target="_blank">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0e76a8" />`{=html}
-`</a>`{=html} `<a href="mailto:allankelven.ak@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=d32f2f" />`{=html}
-`</a>`{=html}
-`<a href="https://allan-kelven.vercel.app/" target="_blank">`{=html}
-`<img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00e0ff" />`{=html}
-`</a>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-⭐ Se você chegou até aqui, considere dar uma estrela nos meus projetos!
-⭐
-:::
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allankelven)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://allan-kelven.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:allankelven.ak@gmail.com)
