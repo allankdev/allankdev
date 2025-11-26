@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/allankdev.png" width="140">
+
 
 # 👋 Olá, eu sou **Allan Kelven**
 ### 🚀 Desenvolvedor Full Stack • Java • Node.js • React • Spring Boot
