@@ -1,130 +1,133 @@
-# 👋 Olá! Eu sou Allan Kelven  
-### Desenvolvedor Full Stack | Java • Node.js • React • Spring Boot
+<img align="right" src="https://github.com/allankdev.png" width="140">
 
-Sou Desenvolvedor Full Stack com **8+ anos de experiência**, atuando no desenvolvimento de soluções corporativas, automações e sistemas escaláveis. Atualmente trabalho na **JSD Telecom**, criando aplicações robustas para o setor de telecomunicações.
+# 👋 Olá, eu sou **Allan Kelven**
+### 🚀 Desenvolvedor Full Stack • Java • Node.js • React • Spring Boot
 
-Tenho experiência sólida em **frontend, backend, APIs, microserviços, automação e integrações**, além de historicamente entregar projetos complexos em empresas de tecnologia, leilões, e-commerce e plataformas de serviços.
+Bem-vindo ao meu espaço no GitHub!  
+Atuo há **8+ anos** construindo soluções escaláveis, automações inteligentes e sistemas robustos para setores como **telecomunicações, e-commerce, leilões, entregas e serviços**.  
+Gosto de código limpo, arquitetura bem feita e produtos que realmente resolvem problemas.
 
 ---
 
-## 🚀 Tecnologias e Especialidades
+## 🛠️ **Tech Stack**
 
 ### **Frontend**
-- React, Next.js, JavaScript, TypeScript  
-- HTML, CSS, Bootstrap  
-- UX com Figma  
+⚡ React • Next.js • TypeScript  
+🎨 HTML • CSS • Bootstrap • Figma
 
 ### **Backend**
-- Java (Spring Boot), Node.js  
-- Python (Flask), PHP  
-- Autenticação JWT, APIs REST, Clean Code, SOLID
+☕ Java (Spring Boot)  
+🟩 Node.js  
+🐍 Python (Flask)  
+🐘 PHP
+
+### **Arquitetura e Integrações**
+🧩 Microservices • APIs REST  
+🔐 JWT Auth • Clean Code • SOLID  
+📡 WhatsApp API • Twilio • SMS  
+⚙️ Power Automate • Redis
 
 ### **Banco de Dados**
-- PostgreSQL, MySQL, MongoDB  
-- Otimização de queries e modelagem
+🗄️ PostgreSQL • MySQL • MongoDB  
+⚡ Otimização de queries
 
-### **DevOps & Ferramentas**
-- Docker • Git • CI/CD  
-- Microservices • Integração contínua  
-- Redis, Power Automate, API WhatsApp/Twilio
-
----
-
-## 💼 Experiência Profissional
-
-### **🔹 JSD Telecom — Desenvolvedor Full Stack (2024 - Atual)**
-- Aplicações corporativas escaláveis para telecom  
-- Integração de APIs e microserviços  
-- Automação de fluxos internos e otimização de processos  
-
-### **🔹 Leilões PB — Full Stack (2024)**
-- Sistema completo de gestão de leilões  
-- Automação com Power Automate e WhatsApp API  
-- Redução de 20% no tempo operacional
-
-### **🔹 Pethost — Fundador & Full Stack (2024 - Atual)**
-- Plataforma completa de hospedagem de pets  
-- Backend em Spring Boot + Frontend com Next.js  
-- Otimização de 60% no tempo de resposta do MongoDB  
-
-### **🔹 Meu Site BR — Fundador (2017 - Atual)**
-- 100+ clientes atendidos  
-- WordPress, e-commerce e automações personalizadas  
-- 85% de retenção e 35% de aumento médio nas conversões
+### **DevOps**
+🐳 Docker • CI/CD  
+🔧 Git • Bitbucket
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🚀 **Projetos em Destaque**
 
-### 🐶 **Pethost – Plataforma Completa**
-Tecnologias: Next.js • React • Spring Boot • Java  
-**Frontend:** https://github.com/co-finampy/pethost-web  
-**Backend:** https://github.com/co-finampy/pet-api  
+### 🐶 **Pethost – Plataforma Completa para Hospedagem de Pets**
+**Tecnologias:** Next.js • React • Spring Boot • MongoDB  
 - 500+ usuários  
-- 45% de otimização de performance no banco  
-- Autenticação JWT com 99.9% de disponibilidade
+- JWT com 99.9% de disponibilidade  
+- 45% mais performance no banco  
+🔗 Frontend: https://github.com/co-finampy/pethost-web  
+🔗 Backend: https://github.com/co-finampy/pet-api  
 
 ---
 
-### 🚚 **Pedego – Sistema de Entregas**
-Tecnologias: Spring Boot • React • MySQL  
-**Backend:** https://github.com/allankdev/pedego-api  
-**Frontend:** https://github.com/allankdev/pedgo-front  
+### 🚚 **Pedego – Plataforma de Entregas**
+**Tecnologias:** Spring Boot • React • MySQL  
 - 1000+ requisições/dia  
-- 40% de redução da latência
+- -40% de latência  
+🔗 Backend: https://github.com/allankdev/pedego-api  
+🔗 Frontend: https://github.com/allankdev/pedgo-front  
 
 ---
 
 ### 👥 **HR Contábil – Sistema de RH**
-Tecnologias: Java • Spring Boot • MySQL  
-Repo: https://github.com/allankdev/hr-contabil  
+**Tecnologias:** Java • Spring Boot • MySQL  
+🔗 https://github.com/allankdev/hr-contabil
 
 ---
 
 ### 📰 **Plataforma de Notícias**
-Node.js • React • MongoDB  
-- Atualizações em tempo real  
-- Frontend: https://github.com/allankdev/frontend-news  
-- Backend: https://github.com/allankdev/backend-news  
+**Tecnologias:** Node.js • React • MongoDB  
+🔗 Backend: https://github.com/allankdev/backend-news  
+🔗 Frontend: https://github.com/allankdev/frontend-news  
 
 ---
 
-### 🤖 Bots e Automações
-- Bot SMS integrado ao Telegram (PHP)  
-- Automação WhatsApp API + Twilio (Python + JS)  
-- 200+ interações automáticas/dia
+### 🤖 **Bots e Automações**
+- Bot SMS para Telegram (PHP)  
+- Automação WhatsApp + Twilio (Python)  
+- 200+ interações automatizadas/dia  
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎯 **Experiência Profissional**
 
-🎓 **Sistemas para Internet – Estácio** (conclusão em 2025)
+### **JSD Telecom | Full Stack Developer**
+- Aplicações corporativas para telecom  
+- APIs + microserviços escaláveis  
+- Automação de fluxos internos
 
-📜 Certificações:
-- Spring Boot Expert – 2024  
-- MongoDB e NoSQL – 2024  
-- Clean Code na Prática – 2024  
-- Scrum Foundation – 2024  
-- Pré-MBA em IA – 2024  
-- NLW Fullstack – Rocketseat – 2024  
-- DevOpsDays João Pessoa – 2024  
+### **Leilões PB | Full Stack Dev**
+- Sistema de gestão de leilões  
+- Automação via Power Automate + WhatsApp  
+- -20% de carga operacional
+
+### **Pethost | Fundador & Dev**
+- Plataforma full stack completa  
+- +60% de otimização em consultas  
+- Gestão ágil com 100% dos prazos cumpridos
+
+### **Meu Site BR | Fundador**
+- 100+ clientes atendidos  
+- +35% conversão média  
+- 85% de retenção
 
 ---
 
-## 🌎 Idiomas
+## 🎓 **Formação & Certificações**
+
+🎓 **Sistemas para Internet – Estácio (2025)**  
+📜 Spring Boot Expert (Udemy)  
+📜 MongoDB & NoSQL (Udemy)  
+📜 Clean Code na Prática  
+📜 Scrum Foundation  
+📜 Pré-MBA em Inteligência Artificial  
+📜 NLW Fullstack – Rocketseat  
+📜 DevOpsDays João Pessoa  
+
+---
+
+## 🌍 **Idiomas**
 - 🇧🇷 Português — Nativo  
 - 🇺🇸 Inglês — Intermediário  
 - 🇪🇸 Espanhol — Básico  
 
 ---
 
-## 📬 Contato
-
-**📧 E-mail:** allankelven.ak@gmail.com  
-**🌐 Portfólio:** https://allan-kelven.vercel.app  
-**💼 LinkedIn:** https://linkedin.com/in/allankelven  
-**🐙 GitHub:** https://github.com/allankdev  
+## 📬 **Contato**
+📧 **allankelven.ak@gmail.com**  
+🌐 **allan-kelven.vercel.app**  
+💼 **linkedin.com/in/allankelven**  
+🐙 **github.com/allankdev**
 
 ---
 
-### ⭐ Se curtir meus projetos, deixa uma estrela nos repositórios!  
+### ✨ *Obrigado por visitar meu perfil! Se curtir meus projetos, deixa uma ⭐ por lá!*
